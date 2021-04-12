@@ -1,14 +1,14 @@
-madera 
-clavos 
-pegamento
+madera : ok
+clavos : ok
+pegamento : ok
 boceto
 coordenadas
 planos
 cortadora
 herramientas
-mano de obra 
-presupuesto 
-capital
+mano de obra :
+presupuesto : 500 soles
+capital : 550 soles
 tutorial
-tiempo
-pintura
+tiempo: 1 semana
+pintura lavable antimoho
