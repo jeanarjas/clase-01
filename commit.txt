@@ -1,0 +1,14 @@
+madera 
+clavos 
+pegamento
+boceto
+coordenadas
+planos
+cortadora
+herramientas
+mano de obra 
+presupuesto 
+capital
+tutorial
+tiempo
+pintura
